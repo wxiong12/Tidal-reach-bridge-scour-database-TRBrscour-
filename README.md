@@ -58,6 +58,3 @@ Researchers are welcome to use **TRBrscour** for:
 
 ---
 
-<p align="center">
-  🌊 <b>TRBrscour</b> · Field Data · Tidal Dynamics · Bridge Scour · Data-Driven Prediction
-</p>
